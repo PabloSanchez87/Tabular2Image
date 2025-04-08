@@ -1,0 +1,15 @@
+.env
+Transcripciones
+Notebooks/resources
+Notebooks/Originales
+Notebooks/Concat_Hybrid_Network/Synthetic_images
+Notebooks/Regression_Hybrid_ViT/Synthetic_images
+Notebooks/RegressionCNN/Synthetic_images
+Notebooks/RegressionCNN+MLP/Synthetic_images
+Notebooks/RegressionViT/Synthetic_images
+
+Notebooks/Regression_Hybrid_ViT/Results
+Notebooks/Concat_Hybrid_Network/Results
+Notebooks/RegressionCNN/Results
+Notebooks/RegressionCNN+MLP/Results
+Notebooks/RegressionViT/Results
